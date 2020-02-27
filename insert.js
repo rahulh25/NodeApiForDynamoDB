@@ -37,7 +37,7 @@ function putItems(items) {
         } else {
           if (++insertedCount == items.length) {
             console.log("Suuccessfully inserted " + items.length + " items");
-            resolve();
+            resolve(data);
           }
         }
       });
