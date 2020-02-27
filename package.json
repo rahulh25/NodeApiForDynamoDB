@@ -1,0 +1,22 @@
+{
+  "name": "dynamodb_examples",
+  "version": "1.0.0",
+  "description": "Working with DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulh25/NodeApiForDynamoDB.git"
+  },
+  "author": "Rahul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulh25/NodeApiForDynamoDB/issues"
+  },
+  "homepage": "https://github.com/rahulh25/NodeApiForDynamoDB#readme",
+  "dependencies": {
+    "aws-sdk": "^2.628.0"
+  }
+}
