@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rahulh25/NodeApiForDynamoDB#readme",
   "dependencies": {
-    "aws-sdk": "^2.628.0"
+    "aws-sdk": "^2.814.0"
   }
 }
